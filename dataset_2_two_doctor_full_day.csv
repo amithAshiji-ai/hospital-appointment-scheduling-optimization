@@ -1,0 +1,13 @@
+patient_id,specialty,doctor,requested_slot,preferred_slot
+G01,General Medicine,Dr. Rao,1,1
+G02,General Medicine,Dr. Rao,1,3
+G03,General Medicine,Dr. Rao,2,2
+G04,General Medicine,Dr. Rao,2,5
+G05,General Medicine,Dr. Rao,3,4
+G06,General Medicine,Dr. Rao,4,6
+P01,Pediatrics,Dr. Iyer,1,2
+P02,Pediatrics,Dr. Iyer,2,2
+P03,Pediatrics,Dr. Iyer,2,4
+P04,Pediatrics,Dr. Iyer,3,3
+P05,Pediatrics,Dr. Iyer,4,5
+P06,Pediatrics,Dr. Iyer,5,6

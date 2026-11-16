@@ -1,0 +1,13 @@
+patient_id,specialty,doctor,requested_slot,preferred_slot
+P1,Cardiology,Dr. A,1,2
+P2,Cardiology,Dr. A,1,6
+P3,Cardiology,Dr. A,2,3
+P4,Cardiology,Dr. A,3,4
+P5,Dermatology,Dr. B,1,1
+P6,Dermatology,Dr. B,2,2
+P7,Dermatology,Dr. B,1,4
+P8,Dermatology,Dr. B,3,4
+P9,Orthopedics,Dr. C,1,1
+P10,Orthopedics,Dr. C,2,3
+P11,Orthopedics,Dr. C,2,2
+P12,Orthopedics,Dr. C,3,4
